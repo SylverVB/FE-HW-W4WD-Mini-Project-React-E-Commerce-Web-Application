@@ -1,0 +1,27 @@
+.productListContainer {
+    width: 30%;
+    /* margin: auto; */
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+.productList {
+    list-style-type: none;
+    /* padding: 0; */
+}
+
+.productItem {
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+}
+
+.productItem:hover {
+    background-color: #f7f7f7;
+}

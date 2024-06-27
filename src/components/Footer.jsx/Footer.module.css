@@ -1,0 +1,23 @@
+
+footer {
+    background-color: #191a1b;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+.copyright {
+    font-size: 13px;
+}
+
+.footer-links:hoover {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-links {
+    color: white;
+}

@@ -1,0 +1,71 @@
+/* commented out because of bootstrap */
+
+#app-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-color: #13253f;
+  color: white;
+  height: 100vh;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+/* .lists {
+  width: 500px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+} */
+
+/* li {
+  background-color: lightblue;
+  padding: 5px;
+  margin: 5px 0;
+  border-radius: 4px;
+  color: rgb(49,49,49);
+} */
+
+.li:hover {
+  background-color: #bbb9b9; 
+}
+
+/* ul {
+  list-style-type: none;
+} */
+
+
+/* New */
+
+/* .container {
+    max-width: 1200px;
+    width: 100%;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.form-group label {
+    color: white;
+} */
